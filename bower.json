@@ -1,0 +1,22 @@
+{
+  "name": "angular-ui-dropdown",
+  "version": "0.0.1",
+  "authors": [
+    "Stephen Pitchford <stephenpitchford@gmail.com>"
+  ],
+  "description": "Angular UI accordion as a standalone module to be included in a project without all the other sub-modules in Angular UI",
+  "main": "ui-bootstrap-accordion-0.13.4.js",
+  "keywords": [
+    "Angular",
+    "Angular UI",
+    "accordion"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
